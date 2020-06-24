@@ -1,3 +1,6 @@
+// Vignesh & Grayson
+// PeriForAll
+
 #include "Arduino.h"
 
 static unsigned long time;
